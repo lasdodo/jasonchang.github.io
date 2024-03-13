@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Hello Im Jason</title>
+    <link>https://jasonhjchang.github.io/photography/</link>
+    <description>Recent content in Photos on Hello Im Jason</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 20:52:54 +0800</lastBuildDate><atom:link href="https://jasonhjchang.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>London</title>
+      <link>https://jasonhjchang.github.io/photography/london/</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/photography/london/</guid>
+      <description>Camera: Sony a7m3
+Lens: Tamron 28-75mm</description>
+    </item>
+    
+    <item>
+      <title>Skateboard</title>
+      <link>https://jasonhjchang.github.io/photography/skateboard/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/photography/skateboard/</guid>
+      <description>Camera: Sony a7m3
+Lens: Tamron 28-75mm
+Model: Leo Lin </description>
+    </item>
+    
+    <item>
+      <title>Hehuan Mountain</title>
+      <link>https://jasonhjchang.github.io/photography/hehuan/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/photography/hehuan/</guid>
+      <description>Camera: Sony a7m3
+Lens: Tamron 28-75mm 5:06 a.m. 5:18 a.m. 5:36 a.m. 7:00 a.m. 7:34 a.m. </description>
+    </item>
+    
+    <item>
+      <title>Thailand</title>
+      <link>https://jasonhjchang.github.io/photography/thailand/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/photography/thailand/</guid>
+      <description>Camera: Sony a6000
+Lens: Sony E 18-135mm </description>
+    </item>
+    
+    <item>
+      <title>East Taiwan</title>
+      <link>https://jasonhjchang.github.io/photography/east/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/photography/east/</guid>
+      <description>Camera: Sony a6000
+Lens: Sony E 18-135mm </description>
+    </item>
+    
+  </channel>
+</rss>

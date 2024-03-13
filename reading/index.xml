@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading Notes on Hello Im Jason</title>
+    <link>https://jasonhjchang.github.io/reading/</link>
+    <description>Recent content in Reading Notes on Hello Im Jason</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 21:44:26 +0800</lastBuildDate><atom:link href="https://jasonhjchang.github.io/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flash Boys</title>
+      <link>https://jasonhjchang.github.io/reading/flash/</link>
+      <pubDate>Fri, 06 Oct 2023 01:57:40 +0800</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/reading/flash/</guid>
+      <description>Lewis, M., &amp;amp; Baker, D. (2014). Flash boys: a Wall Street revolt. New York, Simon &amp;amp; Schuster Audio.</description>
+    </item>
+    
+    <item>
+      <title>Options Volatility and Pricing</title>
+      <link>https://jasonhjchang.github.io/reading/options/</link>
+      <pubDate>Fri, 06 Oct 2023 01:57:40 +0800</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/reading/options/</guid>
+      <description>Options Volatility and Pricing</description>
+    </item>
+    
+    <item>
+      <title>### Reading List ###</title>
+      <link>https://jasonhjchang.github.io/reading/reading_list/</link>
+      <pubDate>Thu, 05 Oct 2023 17:03:39 +0800</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/reading/reading_list/</guid>
+      <description>Finance Options Volatility and Pricing
+Market Wizard
+Liar&amp;rsquo;s Poker
+Flash Boys
+The Quants
+Trading and Exchanges: Market Microstructure for Practitioners
+Dynamic Hedging
+Expected Returns
+Options, Futures, and Other Derivatives
+Statistics The Elements of Statistical Learning</description>
+    </item>
+    
+  </channel>
+</rss>
